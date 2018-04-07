@@ -1,0 +1,12 @@
+C:\Users\Nigar\Desktop\P503\07.04.2018\Cinema_07_04_2018\Cinema_07_04_2018\bin\Debug\Cinema_07_04_2018.exe.config
+C:\Users\Nigar\Desktop\P503\07.04.2018\Cinema_07_04_2018\Cinema_07_04_2018\bin\Debug\Cinema_07_04_2018.exe
+C:\Users\Nigar\Desktop\P503\07.04.2018\Cinema_07_04_2018\Cinema_07_04_2018\bin\Debug\Cinema_07_04_2018.pdb
+C:\Users\Nigar\Desktop\P503\07.04.2018\Cinema_07_04_2018\Cinema_07_04_2018\obj\Debug\Cinema_07_04_2018.csprojResolveAssemblyReference.cache
+C:\Users\Nigar\Desktop\P503\07.04.2018\Cinema_07_04_2018\Cinema_07_04_2018\obj\Debug\Cinema_07_04_2018.Properties.Resources.resources
+C:\Users\Nigar\Desktop\P503\07.04.2018\Cinema_07_04_2018\Cinema_07_04_2018\obj\Debug\Cinema_07_04_2018.csproj.GenerateResource.cache
+C:\Users\Nigar\Desktop\P503\07.04.2018\Cinema_07_04_2018\Cinema_07_04_2018\obj\Debug\Cinema_07_04_2018.csproj.CoreCompileInputs.cache
+C:\Users\Nigar\Desktop\P503\07.04.2018\Cinema_07_04_2018\Cinema_07_04_2018\obj\Debug\Cinema_07_04_2018.exe
+C:\Users\Nigar\Desktop\P503\07.04.2018\Cinema_07_04_2018\Cinema_07_04_2018\obj\Debug\Cinema_07_04_2018.pdb
+C:\Users\Nigar\Desktop\P503\07.04.2018\Cinema_07_04_2018\Cinema_07_04_2018\obj\Debug\Cinema_07_04_2018.Seats_Zal.resources
+C:\Users\Nigar\Desktop\P503\07.04.2018\Cinema_07_04_2018\Cinema_07_04_2018\obj\Debug\Cinema_07_04_2018.EsasEkran.resources
+C:\Users\Nigar\Desktop\P503\07.04.2018\Cinema_07_04_2018\Cinema_07_04_2018\obj\Debug\Cinema_07_04_2018.Netice.resources

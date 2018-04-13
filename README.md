@@ -14,4 +14,6 @@ Linkde goruntuleri verilen stilde cinema app kodlarini yazmaq
 ## Research
 
 - http://zetcode.com/gui/csharpwinforms/ bu linkde winform app haqqinda besit amma gozel izahatlar var onlardan istifade edebilersiniz.
+## LINK TO MY HOMEWORK CINEMA
+-  https://github.com/sukurovanigar/Cinema-Application
 
